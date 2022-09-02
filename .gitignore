@@ -1,0 +1,4 @@
+/env/prod/.terraform/
+/env/prod/.terraform.lock.hcl
+/env/prod/init/.terraform/
+/env/prod/init/.terraform.lock.hcl
